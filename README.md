@@ -1,7 +1,7 @@
 # -LB-Chinese-Poetry-Sentiment-
 This is a sentiment analysis model fine-tuned from 'qixun/bert-chinese-poem' for analyzing sentiments in traditional Chinese poems. The model can identify 7 different categories.
 language: zh tags:
-
+Click here to view and use the model on Hugging Face：https://huggingface.co/Buddhafate/LB-Chinese-Poetry-Sentiment
 BERT
 sentiment-analysis
 chinese-poetry
